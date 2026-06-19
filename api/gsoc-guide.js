@@ -109,10 +109,10 @@ function validateShortlistedOrgs(orgs) {
 
 function validateRecentMessages(msgs) {
   if (!Array.isArray(msgs)) return [];
-  const valid = ['user', 'assistant'];
+  const valid = new Set(['user', 'assistant']);
   return msgs
     .slice(-MAX_HISTORY_MSGS)
-    .filter(m => m && valid.includes(m.role) && typeof m.content === 'string')
+    .filter(m => m && valid.has(m.role) && typeof m.content === 'string')
     .map(m => ({
       role:    m.role,
       content: sanitiseString(m.content, 1_000),
