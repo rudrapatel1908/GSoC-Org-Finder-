@@ -5735,7 +5735,7 @@ if(e.key.toLowerCase()==='r'){
   font-size: .9rem;
   line-height: 1.5;
   white-space: pre-wrap;
-  word-break: break-word;
+  word-break: break-word; /* NOSONAR: intentional fallback for browsers without overflow-wrap support */
   overflow-wrap: anywhere;
 }
 .guide-message--user .guide-message__body {
