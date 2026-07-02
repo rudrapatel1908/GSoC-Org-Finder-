@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-23T03:52:40.243Z",
+  "updated_at": "2026-07-02T14:09:41.968Z",
   "source_org_count": 184,
-  "total_issues": 47,
+  "total_issues": 45,
   "issues": [
     {
       "org": "AFLplusplus",
@@ -40,48 +40,45 @@
       "org": "AnkiDroid",
       "github": "ankidroid/Anki-Android",
       "logo": "https://avatars.githubusercontent.com/ankidroid",
+      "title": "Improve the \"Learn ahead limit\" and \"Timebox time limit\" dialogs",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/20478",
+      "repo": "ankidroid/Anki-Android",
+      "labels": [
+        "Good First Issue"
+      ],
+      "comments": 21,
+      "created_at": "2026-03-15T12:20:55Z",
+      "updated_at": "2026-07-01T18:34:14Z",
+      "language": null
+    },
+    {
+      "org": "AnkiDroid",
+      "github": "ankidroid/Anki-Android",
+      "logo": "https://avatars.githubusercontent.com/ankidroid",
       "title": "Improve some dialogs (mostly string changes)",
       "url": "https://github.com/ankidroid/Anki-Android/issues/20508",
       "repo": "ankidroid/Anki-Android",
       "labels": [
         "Good First Issue"
       ],
-      "comments": 28,
+      "comments": 29,
       "created_at": "2026-03-18T12:37:25Z",
-      "updated_at": "2026-06-16T11:45:54Z",
+      "updated_at": "2026-06-30T11:20:29Z",
       "language": null
     },
     {
       "org": "AnkiDroid",
       "github": "ankidroid/Anki-Android",
       "logo": "https://avatars.githubusercontent.com/ankidroid",
-      "title": "Performance: Investigate androidx: startUpWebView",
-      "url": "https://github.com/ankidroid/Anki-Android/issues/20973",
+      "title": "Improve the Review forgotten cards dialog",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/20598",
       "repo": "ankidroid/Anki-Android",
       "labels": [
-        "Performance",
         "Good First Issue"
       ],
-      "comments": 5,
-      "created_at": "2026-05-07T11:33:04Z",
-      "updated_at": "2026-06-04T12:06:58Z",
-      "language": null
-    },
-    {
-      "org": "AnkiDroid",
-      "github": "ankidroid/Anki-Android",
-      "logo": "https://avatars.githubusercontent.com/ankidroid",
-      "title": "Show progress when updating FSRS memory states",
-      "url": "https://github.com/ankidroid/Anki-Android/issues/16642",
-      "repo": "ankidroid/Anki-Android",
-      "labels": [
-        "Priority-Low",
-        "Good First Issue",
-        "Anki Ecosystem Compatibility"
-      ],
-      "comments": 16,
-      "created_at": "2024-06-24T04:40:18Z",
-      "updated_at": "2026-04-30T18:56:15Z",
+      "comments": 13,
+      "created_at": "2026-03-26T12:38:14Z",
+      "updated_at": "2026-06-28T07:16:10Z",
       "language": null
     },
     {
@@ -94,9 +91,26 @@
       "labels": [
         "good first issue"
       ],
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-11T00:13:10Z",
-      "updated_at": "2026-06-16T13:56:01Z",
+      "updated_at": "2026-06-29T13:32:17Z",
+      "language": null
+    },
+    {
+      "org": "ArduPilot",
+      "github": "ArduPilot/ardupilot",
+      "logo": "https://avatars.githubusercontent.com/ArduPilot",
+      "title": "SITL: add correct battery estimator from vehicle type",
+      "url": "https://github.com/ArduPilot/ardupilot/issues/10050",
+      "repo": "ArduPilot/ardupilot",
+      "labels": [
+        "Enhancement",
+        "SITL",
+        "good first issue"
+      ],
+      "comments": 17,
+      "created_at": "2018-12-18T09:12:26Z",
+      "updated_at": "2026-06-23T16:01:09Z",
       "language": null
     },
     {
@@ -116,23 +130,6 @@
       "language": null
     },
     {
-      "org": "ArduPilot",
-      "github": "ArduPilot/ardupilot",
-      "logo": "https://avatars.githubusercontent.com/ArduPilot",
-      "title": "Copter: easier test of benchtest the parachute",
-      "url": "https://github.com/ArduPilot/ardupilot/issues/2339",
-      "repo": "ArduPilot/ardupilot",
-      "labels": [
-        "Copter",
-        "Safety",
-        "good first issue"
-      ],
-      "comments": 6,
-      "created_at": "2015-05-28T09:00:55Z",
-      "updated_at": "2026-05-15T04:45:30Z",
-      "language": null
-    },
-    {
       "org": "Boa",
       "github": "boa-dev/boa",
       "logo": "https://avatars.githubusercontent.com/boa-dev",
@@ -143,9 +140,9 @@
         "Good First Issue",
         "C-CLI"
       ],
-      "comments": 6,
+      "comments": 7,
       "created_at": "2026-03-09T04:11:05Z",
-      "updated_at": "2026-06-02T03:08:30Z",
+      "updated_at": "2026-07-02T06:56:27Z",
       "language": null
     },
     {
@@ -191,12 +188,11 @@
       "repo": "cBioPortal/cbioportal",
       "labels": [
         "enhancement",
-        "good first issue",
-        "triage"
+        "good first issue"
       ],
       "comments": 3,
       "created_at": "2026-06-19T16:48:40Z",
-      "updated_at": "2026-06-19T20:26:20Z",
+      "updated_at": "2026-06-30T15:05:58Z",
       "language": null
     },
     {
@@ -219,16 +215,33 @@
       "org": "cBioPortal for Cancer Genomics",
       "github": "cBioPortal/cbioportal",
       "logo": "https://avatars.githubusercontent.com/cBioPortal",
-      "title": "Replace juice with lighter CSS inlining library for SVG export",
-      "url": "https://github.com/cBioPortal/cbioportal/issues/12116",
+      "title": "re-enable caching of docker images during build",
+      "url": "https://github.com/cBioPortal/cbioportal/issues/10450",
       "repo": "cBioPortal/cbioportal",
       "labels": [
         "good first issue",
-        "triage"
+        "devops"
       ],
-      "comments": 0,
-      "created_at": "2026-04-13T20:58:33Z",
-      "updated_at": "2026-04-13T20:58:45Z",
+      "comments": 5,
+      "created_at": "2023-10-25T20:29:55Z",
+      "updated_at": "2026-04-11T07:29:18Z",
+      "language": null
+    },
+    {
+      "org": "checkstyle",
+      "github": "checkstyle/checkstyle",
+      "logo": "https://avatars.githubusercontent.com/checkstyle",
+      "title": "Move violation comments out of Javadoc for all input files",
+      "url": "https://github.com/checkstyle/checkstyle/issues/19764",
+      "repo": "checkstyle/checkstyle",
+      "labels": [
+        "approved",
+        "miscellaneous",
+        "good first issue"
+      ],
+      "comments": 14,
+      "created_at": "2026-04-29T02:48:15Z",
+      "updated_at": "2026-06-28T13:25:31Z",
       "language": null
     },
     {
@@ -243,9 +256,9 @@
         "miscellaneous",
         "good first issue"
       ],
-      "comments": 57,
+      "comments": 56,
       "created_at": "2025-04-09T14:15:20Z",
-      "updated_at": "2026-06-22T19:36:38Z",
+      "updated_at": "2026-06-27T22:25:02Z",
       "language": null
     },
     {
@@ -266,20 +279,35 @@
       "language": null
     },
     {
-      "org": "checkstyle",
-      "github": "checkstyle/checkstyle",
-      "logo": "https://avatars.githubusercontent.com/checkstyle",
-      "title": "Move violation comments out of Javadoc for all input files",
-      "url": "https://github.com/checkstyle/checkstyle/issues/19764",
-      "repo": "checkstyle/checkstyle",
+      "org": "CircuitVerse.org",
+      "github": "CircuitVerse/CircuitVerse",
+      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
+      "title": "🐞 Bug : Image upload in simulator fails due to Imgur API error",
+      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/7342",
+      "repo": "CircuitVerse/CircuitVerse",
       "labels": [
-        "approved",
-        "miscellaneous",
-        "good first issue"
+        "good first issue",
+        "🐞 bug"
       ],
-      "comments": 12,
-      "created_at": "2026-04-29T02:48:15Z",
-      "updated_at": "2026-06-18T10:14:36Z",
+      "comments": 6,
+      "created_at": "2026-05-04T07:37:09Z",
+      "updated_at": "2026-06-30T08:22:47Z",
+      "language": null
+    },
+    {
+      "org": "CircuitVerse.org",
+      "github": "CircuitVerse/CircuitVerse",
+      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
+      "title": "🐞 Bug: 'Getting Started' dropdown does not close when clicked again",
+      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/7332",
+      "repo": "CircuitVerse/CircuitVerse",
+      "labels": [
+        "good first issue",
+        "🐞 bug"
+      ],
+      "comments": 9,
+      "created_at": "2026-04-24T13:20:54Z",
+      "updated_at": "2026-06-25T15:34:03Z",
       "language": null
     },
     {
@@ -299,34 +327,20 @@
       "language": null
     },
     {
-      "org": "CircuitVerse.org",
-      "github": "CircuitVerse/CircuitVerse",
-      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
-      "title": "🐞 Bug: 'Getting Started' dropdown does not close when clicked again",
-      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/7332",
-      "repo": "CircuitVerse/CircuitVerse",
+      "org": "OpenAstronomy",
+      "github": "sunpy/sunpy",
+      "logo": "https://avatars.githubusercontent.com/sunpy",
+      "title": "Highlight new contributors better in release notes",
+      "url": "https://github.com/sunpy/sunpy/issues/7675",
+      "repo": "sunpy/sunpy",
       "labels": [
-        "good first issue",
-        "🐞 bug"
+        "Package Novice",
+        "Infrastructure",
+        "Good First Issue"
       ],
-      "comments": 8,
-      "created_at": "2026-04-24T13:20:54Z",
-      "updated_at": "2026-06-15T14:59:20Z",
-      "language": null
-    },
-    {
-      "org": "CircuitVerse.org",
-      "github": "CircuitVerse/CircuitVerse",
-      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
-      "title": "Migrate Pagination To View Component",
-      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/5827",
-      "repo": "CircuitVerse/CircuitVerse",
-      "labels": [
-        "good first issue"
-      ],
-      "comments": 1,
-      "created_at": "2025-06-20T05:56:29Z",
-      "updated_at": "2026-06-09T21:38:28Z",
+      "comments": 4,
+      "created_at": "2024-06-14T12:38:03Z",
+      "updated_at": "2026-06-27T17:00:37Z",
       "language": null
     },
     {
@@ -364,25 +378,6 @@
       "comments": 8,
       "created_at": "2020-02-13T19:16:11Z",
       "updated_at": "2026-03-26T21:21:48Z",
-      "language": null
-    },
-    {
-      "org": "OpenAstronomy",
-      "github": "sunpy/sunpy",
-      "logo": "https://avatars.githubusercontent.com/sunpy",
-      "title": "Standardise our docstring convention on Time inputs",
-      "url": "https://github.com/sunpy/sunpy/issues/2784",
-      "repo": "sunpy/sunpy",
-      "labels": [
-        "Package Novice",
-        "Priority Low",
-        "Effort Medium",
-        "Documentation",
-        "Good First Issue"
-      ],
-      "comments": 15,
-      "created_at": "2018-10-10T17:26:54Z",
-      "updated_at": "2026-03-26T09:54:13Z",
       "language": null
     },
     {
@@ -493,51 +488,49 @@
       "org": "OpenVINO Toolkit",
       "github": "openvinotoolkit/openvino",
       "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
-      "title": "[Good First Issue]: Align behavior of ONNX Frontend operator AveragePool-7, 10, 11, 19 with original framework",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/20553",
+      "title": "[Good First Issue]: Support quantized::conv1d_relu",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/29730",
       "repo": "openvinotoolkit/openvino",
       "labels": [
         "good first issue",
-        "ONNX",
-        "category: ONNX FE",
         "no_stale"
       ],
-      "comments": 41,
-      "created_at": "2023-10-18T11:48:51Z",
-      "updated_at": "2026-06-19T20:17:11Z",
+      "comments": 13,
+      "created_at": "2025-03-25T12:16:18Z",
+      "updated_at": "2026-06-29T19:27:53Z",
       "language": null
     },
     {
       "org": "OpenVINO Toolkit",
       "github": "openvinotoolkit/openvino",
       "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
-      "title": "[Good First Issue]: Support request for aten::pop and aten::reverse",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/29630",
+      "title": "[Good First Issue]: Support aten::rrelu and aten::rrelu_ for pytorch models",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/23746",
       "repo": "openvinotoolkit/openvino",
       "labels": [
         "good first issue",
+        "category: PyTorch FE",
         "no_stale"
       ],
-      "comments": 30,
-      "created_at": "2025-03-22T15:33:02Z",
-      "updated_at": "2026-06-19T10:05:45Z",
+      "comments": 28,
+      "created_at": "2024-03-28T11:22:44Z",
+      "updated_at": "2026-06-29T19:20:33Z",
       "language": null
     },
     {
       "org": "OpenVINO Toolkit",
       "github": "openvinotoolkit/openvino",
       "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
-      "title": "[Good First Issue]: enable PIR format for PDPD FE",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/29325",
+      "title": "[Good First Issue]: Support aten::fractional_max_pool2d",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/29696",
       "repo": "openvinotoolkit/openvino",
       "labels": [
         "good first issue",
-        "category: PDPD FE",
         "no_stale"
       ],
-      "comments": 33,
-      "created_at": "2025-03-07T07:42:48Z",
-      "updated_at": "2026-06-19T10:05:24Z",
+      "comments": 52,
+      "created_at": "2025-03-25T12:07:57Z",
+      "updated_at": "2026-06-29T19:16:28Z",
       "language": null
     },
     {
@@ -553,51 +546,42 @@
         "Impact: Medium",
         "Work: Low"
       ],
-      "comments": 174,
+      "comments": 181,
       "created_at": "2021-05-25T13:41:19Z",
-      "updated_at": "2026-06-22T19:00:21Z",
+      "updated_at": "2026-07-02T12:46:56Z",
       "language": null
     },
     {
       "org": "Oppia Foundation",
       "github": "oppia/oppia",
       "logo": "https://avatars.githubusercontent.com/oppia",
-      "title": "[Feature Request]: Migrate remaining userJourneys.js tests to acceptance",
-      "url": "https://github.com/oppia/oppia/issues/24938",
+      "title": "[BUG]: Acceptance test re-run steps do not work due to server not being shut down",
+      "url": "https://github.com/oppia/oppia/issues/23830",
       "repo": "oppia/oppia",
       "labels": [
         "good first issue",
-        "enhancement",
-        "Work: Medium",
-        "Work: Low",
-        "EUJ IP.1",
-        "IUJ LC.1",
-        "target: Q2 2026"
+        "bug"
       ],
-      "comments": 29,
-      "created_at": "2026-02-16T12:21:01Z",
-      "updated_at": "2026-06-21T14:34:26Z",
+      "comments": 75,
+      "created_at": "2025-11-10T13:24:25Z",
+      "updated_at": "2026-07-02T10:57:18Z",
       "language": null
     },
     {
       "org": "Oppia Foundation",
       "github": "oppia/oppia",
       "logo": "https://avatars.githubusercontent.com/oppia",
-      "title": "[BUG]: Parameter \"key\" required console error on collection player.",
-      "url": "https://github.com/oppia/oppia/issues/20198",
+      "title": "UserContributionRightsModel.put() should not be called from the service layer",
+      "url": "https://github.com/oppia/oppia/issues/18728",
       "repo": "oppia/oppia",
       "labels": [
-        "backend",
         "good first issue",
-        "bug",
-        "Impact: Low -- ONLY DO IF GOOD FIRST ISSUE",
-        "Work: Medium",
-        "console errors",
-        "EUJ EU.2"
+        "Impact: High",
+        "Work: Low"
       ],
-      "comments": 17,
-      "created_at": "2024-04-22T20:56:07Z",
-      "updated_at": "2026-06-21T14:07:14Z",
+      "comments": 45,
+      "created_at": "2023-08-02T07:18:28Z",
+      "updated_at": "2026-07-02T06:43:31Z",
       "language": null
     },
     {
@@ -749,57 +733,19 @@
       "language": null
     },
     {
-      "org": "Rizin",
-      "github": "rizinorg/rizin",
-      "logo": "https://avatars.githubusercontent.com/rizinorg",
-      "title": "New command to print all RzIL instructions in function",
-      "url": "https://github.com/rizinorg/rizin/issues/3669",
-      "repo": "rizinorg/rizin",
+      "org": "QC-Devs",
+      "github": "theochem/gbasis",
+      "logo": "https://avatars.githubusercontent.com/theochem",
+      "title": "[REQUEST] Direct Support for Basis-Set-Exchange",
+      "url": "https://github.com/theochem/gbasis/issues/209",
+      "repo": "theochem/gbasis",
       "labels": [
-        "good first issue",
-        "command",
-        "test-required",
-        "RZIL"
+        "enhancement",
+        "good first issue"
       ],
-      "comments": 7,
-      "created_at": "2023-07-19T08:28:46Z",
-      "updated_at": "2026-06-21T06:32:06Z",
-      "language": null
-    },
-    {
-      "org": "Rizin",
-      "github": "rizinorg/rizin",
-      "logo": "https://avatars.githubusercontent.com/rizinorg",
-      "title": "`ps` doesn't print long strings by default, because it depends on `core->block`.",
-      "url": "https://github.com/rizinorg/rizin/issues/4857",
-      "repo": "rizinorg/rizin",
-      "labels": [
-        "bug",
-        "good first issue",
-        "test-required",
-        "RzUtil"
-      ],
-      "comments": 6,
-      "created_at": "2025-01-22T15:36:14Z",
-      "updated_at": "2026-06-21T06:31:58Z",
-      "language": null
-    },
-    {
-      "org": "Rizin",
-      "github": "rizinorg/rizin",
-      "logo": "https://avatars.githubusercontent.com/rizinorg",
-      "title": "Allow `rz-find` to execute also system shell command on match",
-      "url": "https://github.com/rizinorg/rizin/issues/5189",
-      "repo": "rizinorg/rizin",
-      "labels": [
-        "good first issue",
-        "rz-find",
-        "test-required",
-        "UX/UI"
-      ],
-      "comments": 6,
-      "created_at": "2025-06-07T07:58:31Z",
-      "updated_at": "2026-06-21T06:31:52Z",
+      "comments": 11,
+      "created_at": "2025-04-04T21:13:08Z",
+      "updated_at": "2026-03-26T12:59:48Z",
       "language": null
     }
   ]
