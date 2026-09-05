@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gsoc-finder-20260623035406';
+const CACHE_NAME = 'gsoc-finder-20260905145200';
 const CRITICAL_ASSETS = [
   './',
   'index.html',
